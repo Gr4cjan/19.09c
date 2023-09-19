@@ -1,0 +1,12 @@
+
+
+Temat:Programowanie w c++
+Tworzenie kalkulatora:
+funkcje zwracające wynik,
+funkcje wykonujące sie ale nic nie zwracające:XD
+Funkcja: - blok programu zamknięty w przestrzeni funkcji {}
+którego zawartość możemy wykonywać przez podanie nazwy tej funckji.
+Funkcje można wykonywać,powielać w różnych częściach aplikacji
+
+- fukcje zwracają wynik lub tylko się wykonują
+-void oznacza że funckja nic nie zwraca al wywołana wykonuje się
