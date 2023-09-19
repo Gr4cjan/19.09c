@@ -10,3 +10,35 @@ Funkcje można wykonywać,powielać w różnych częściach aplikacji
 
 - fukcje zwracają wynik lub tylko się wykonują
 -void oznacza że funckja nic nie zwraca al wywołana wykonuje się
+
+void opisKalkulatora();
+
+int main()
+{
+............
+}
+void opisKalkulatora() {
+	cout << "Gracjan Borowski: V2 Kalkulator" << endl;
+}
+
+
+float dodawanie(float liczba1, float liczba2){
+
+
+		return warośc float;
+}
+
+float- ma opcje return czyli coś zwraca;
+void- nie ma opcji return czyli nic nie zwraca;	
+------------------------------------------------------------------------------------------------------------
+Zadanie do dom albo nie zalezy :)
+Naoisz app w c++ na konsole i wyznacz:
+-energie kinetyczną
+-energie mechaniczną
+-energie potencjalną
+Em = Ek + Ep, Ek = (m* v^2) / 2 [J], Ep = m * h * g [J]
+g=10; wartość stała
+funkcje które zwracają wynik double
+		double em(float m,float v, float h);
+		double ek(float m,float v, float h);
+		double ep(float m,float v, float h);
